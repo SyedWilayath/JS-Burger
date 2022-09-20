@@ -1,0 +1,40 @@
+#navbar {
+  background-color: black;
+  color: white;
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  padding-top: 25px;
+  margin-bottom: 50px !important;
+}
+
+a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.row {
+  padding-top: 150px !important;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  margin-bottom: 15px !important;
+  margin-left: 30px !important;
+}
+
+#nav-elements {
+  text-align: center;
+}
+
+#title {
+  font-size: 30px;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
